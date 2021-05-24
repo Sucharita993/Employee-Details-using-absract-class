@@ -62,13 +62,15 @@ final class Manager1 extends Employee1 {
 }
 ```
 Write a Do-While loop Switch inside it for Creation,Display,Salary, rise, Exit<br>
+
 ```java
  do {
             System.out.println("1.Create \n2.Display \n3.Salary Rise \n4.Exit");
             ch = sc.nextInt();
             switch (ch) {
-            ```
+```
 write a Do-While loop inside every Switch case for selection of Clerk,Programmer,Manager<br>
+
 ```java
 case 1:
                     do {
